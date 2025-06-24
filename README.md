@@ -2,7 +2,7 @@
 # My Languages:
 
 * Python (especialized)
-* Lua
+* C++
 * HTML
 * CSS
 * Javscript
